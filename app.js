@@ -40,15 +40,8 @@ window.onload = function () {
         }
     });
 
-
-    lax.addElements('.selector', {
-        scrollY: {
-            trans
-        }
-    });
-
 }
 
-// alert(innerWidth)
+
 
 AOS.init();
